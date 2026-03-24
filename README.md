@@ -28,8 +28,3 @@ Di seguito alcuni screenshot registrati durante l'uso dell'applicazione:
 ![Grafico CSV](assets/grafico_csv.png)
 
 ![App in esecuzione](assets/runningApp.jpg)
-
-Contribuire
-
-Apri una issue o fai una pull request per suggerire miglioramenti.
-
